@@ -10,6 +10,7 @@ ScaledBorderAndShadow: yes
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Top,微软雅黑,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,8,10,10,10,1
 Style: Chn,微软雅黑,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,20,1
+Style: en,Comic Sans MS,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -22,158 +23,158 @@ Dialogue: 0,0:04:01.96,0:04:04.30,Top,,0,0,0,,Phish 美国摇滚乐队 因为混
 Dialogue: 0,0:12:15.56,0:12:17.56,Top,,0,0,0,,背景音乐 <My Shit> - Fabolous Feat. A Boogie
 Dialogue: 0,0:17:52.02,0:17:56.44,Top,,0,0,0,,The Beverly Hillbillies <豪门新人类> 美国情景喜剧 讲述在西弗吉尼亚州的家里发现石油的贫苦人民迁到富裕的比佛利山庄居住后的故事
 Dialogue: 0,0:17:56.52,0:17:58.36,Top,,0,0,0,,Texas tea 指石油 因为德州盛产石油
-Dialogue: 0,0:00:05.31,0:00:06.23,Chn,,0,0,0,,我们没有糖浆了
-Dialogue: 0,0:00:06.27,0:00:07.44,Chn,,0,0,0,,呵 你知道吗
-Dialogue: 0,0:00:07.48,0:00:11.15,Chn,,0,0,0,,或许我要用用我的实习生 Glootie
-Dialogue: 0,0:00:11.19,0:00:13.44,Chn,,0,0,0,,- 够了吗 - 谢了 Glootie
-Dialogue: 0,0:00:13.53,0:00:14.07,Chn,,0,0,0,,还需要别的什么吗
-Dialogue: 0,0:00:14.07,0:00:15.57,Chn,,0,0,0,,你想要开发一款应用程序吗
-Dialogue: 0,0:00:15.61,0:00:17.45,Chn,,0,0,0,,- 不了谢谢 Glootie - 嘿 你好吗 Glootie
-Dialogue: 0,0:00:17.53,0:00:19.45,Chn,,0,0,0,,- 嗨 Morty 你想要开发一款应用程序吗 - 不了谢谢
-Dialogue: 0,0:00:19.45,0:00:20.33,Chn,,0,0,0,,Rick 为什么你的实习生
-Dialogue: 0,0:00:20.33,0:00:22.62,Chn,,0,0,0,,额头上写着"不要开发我的应用程序"
-Dialogue: 0,0:00:22.62,0:00:23.79,Chn,,0,0,0,,怎么呢 你想要开发一款应用程序吗
-Dialogue: 0,0:00:23.79,0:00:25.04,Chn,,0,0,0,,啊 我很高兴你问了这个问题 Jerry
-Dialogue: 0,0:00:25.08,0:00:26.62,Chn,,0,0,0,,是为了不让你去开发他的程序
-Dialogue: 0,0:00:26.87,0:00:29.92,Chn,,0,0,0,,- Glootie 去复印点什么东西 - 好的
-Dialogue: 0,0:00:29.96,0:00:32.55,Chn,,0,0,0,,嗯 如果有谁想跟我一起开发程序 我很愿意
-Dialogue: 0,0:00:32.55,0:00:35.22,Chn,,0,0,0,,他看起来特别想开发程序
-Dialogue: 0,0:00:35.22,0:00:37.22,Chn,,0,0,0,,他确实很想 亲爱的 但是没人会那么做
-Dialogue: 0,0:00:37.30,0:00:38.68,Chn,,0,0,0,,好了 你们不介意的话
-Dialogue: 0,0:00:38.68,0:00:40.97,Chn,,0,0,0,,我有个很快的个人冒险要进行
-Dialogue: 0,0:00:41.06,0:00:43.97,Chn,,0,0,0,,这个冒险可不由Ron Howard导演
-Dialogue: 0,0:00:43.97,0:00:44.52,Chn,,0,0,0,,他是要去拉屎
-Dialogue: 0,0:00:44.56,0:00:46.06,Chn,,0,0,0,,当外公那么拍他的肚皮
-Dialogue: 0,0:00:46.10,0:00:47.56,Chn,,0,0,0,,还不带着Morty离开 意味着他要去拉屎了
-Dialogue: 0,0:00:47.64,0:00:48.90,Chn,,0,0,0,,他拉屎的时候会不好意思
-Dialogue: 0,0:00:48.90,0:00:50.02,Chn,,0,0,0,,他有一个秘密的拉屎地点
-Dialogue: 0,0:00:50.06,0:00:51.48,Chn,,0,0,0,,靠 我操 Summer
-Dialogue: 0,0:00:51.48,0:00:54.36,Chn,,0,0,0,,亲爱的 你为啥不能因为你的SAT这么兴奋
-Dialogue: 0,0:00:54.36,0:00:57.15,Chn,,0,0,0,,嗯 我够男人 可以直接说 我要去拉屎
-Dialogue: 0,0:00:57.15,0:01:00.57,Chn,,0,0,0,,而且我很荣幸有Ron Howard参与
-Dialogue: 0,0:01:00.62,0:01:02.37,Chn,,0,0,0,,- 好样的 宝贝 - 你行啊 爸 - 我们支持你
-Dialogue: 0,0:01:06.66,0:01:08.17,Chn,,0,0,0,,他真的给你布置了很多工作 哈
-Dialogue: 0,0:01:08.17,0:01:09.50,Chn,,0,0,0,,你想开发一款应用程序吗
-Dialogue: 0,0:01:09.50,0:01:11.79,Chn,,0,0,0,,- 我就不了 Glootie - 哼 那是你的损失
-Dialogue: 0,0:01:11.79,0:01:13.50,Chn,,0,0,0,,哦 是吗 为什么呢
-Dialogue: 0,0:01:13.50,0:01:15.05,Chn,,0,0,0,,呃 这是一款你想要开发的程序
-Dialogue: 0,0:01:15.05,0:01:17.38,Chn,,0,0,0,,- 我能问它是什么啊 - 你当然可以
-Dialogue: 0,0:01:17.38,0:01:20.26,Chn,,0,0,0,,那总是开发程序的第一步
-Dialogue: 0,0:01:20.26,0:01:21.85,Chn,,0,0,0,,啊 哈哈哈
-Dialogue: 0,0:01:23.72,0:01:25.02,Chn,,0,0,0,,我们一半一半 最终提议
-Dialogue: 0,0:03:21.05,0:03:24.47,Chn,,0,0,0,,反推消化过程
-Dialogue: 0,0:03:25.39,0:03:26.85,Chn,,0,0,0,,是时候见见你的制造者了
-Dialogue: 0,0:03:28.51,0:03:29.93,Chn,,0,0,0,,你们在干什么
-Dialogue: 0,0:03:29.93,0:03:31.52,Chn,,0,0,0,,你开发了一款程序吗
-Dialogue: 0,0:03:31.52,0:03:33.48,Chn,,0,0,0,,开发程序的第一条规则 儿子
-Dialogue: 0,0:03:33.48,0:03:34.69,Chn,,0,0,0,,永远别遵循规则
-Dialogue: 0,0:03:34.69,0:03:37.86,Chn,,0,0,0,,除非这规则被纹在了外星人的额头上 老爸
-Dialogue: 0,0:03:37.86,0:03:39.65,Chn,,0,0,0,,你觉得为什么Rick会有这个规定
-Dialogue: 0,0:03:39.65,0:03:41.32,Chn,,0,0,0,,因为他怕别人烦他
-Dialogue: 0,0:03:41.36,0:03:42.32,Chn,,0,0,0,,不 老爸 不
-Dialogue: 0,0:03:42.32,0:03:44.15,Chn,,0,0,0,,是为了防止可怕的事情发生
-Dialogue: 0,0:03:44.20,0:03:46.03,Chn,,0,0,0,,一些他懒得解释的事情
-Dialogue: 0,0:03:46.07,0:03:47.82,Chn,,0,0,0,,伙计们 我们有第一个用户啦
-Dialogue: 0,0:03:50.95,0:03:53.33,Chn,,0,0,0,,哇 这个新程序刚刚给我匹配了
-Dialogue: 0,0:03:53.33,0:03:55.62,Chn,,0,0,0,,超我菜的人
-Dialogue: 0,0:03:56.00,0:03:58.21,Chn,,0,0,0,,超级是我的菜 学着缩写
-Dialogue: 0,0:03:58.29,0:03:59.09,Chn,,0,0,0,,嘿
-Dialogue: 0,0:03:59.09,0:04:01.96,Chn,,0,0,0,,你的超菜 在Jersey Mike's工作
-Dialogue: 0,0:04:01.96,0:04:04.30,Chn,,0,0,0,,还一年看25场Phish演出
-Dialogue: 0,0:04:04.30,0:04:06.68,Chn,,0,0,0,,- 那太Danny了 - Summer
-Dialogue: 0,0:04:06.68,0:04:08.01,Chn,,0,0,0,,- Danny - Summer Smith吗
-Dialogue: 0,0:04:08.10,0:04:10.81,Chn,,0,0,0,,Danny Publits来自 寻寻又爱爱 写了两遍"寻"和"爱"吗
-Dialogue: 0,0:04:10.81,0:04:13.10,Chn,,0,0,0,,我一路盯着你的资料跑过来的
-Dialogue: 0,0:04:13.31,0:04:15.02,Chn,,0,0,0,,我撞上了一个消防栓然后摔倒了
-Dialogue: 0,0:04:15.02,0:04:16.90,Chn,,0,0,0,,所以我浑身有粘着汗的小石子
-Dialogue: 0,0:04:16.90,0:04:18.31,Chn,,0,0,0,,哪怕冲个澡之后
-Dialogue: 0,0:04:18.31,0:04:20.32,Chn,,0,0,0,,我还是会对这给老瘾君子听的混合乐队感兴趣
-Dialogue: 0,0:04:20.32,0:04:22.69,Chn,,0,0,0,,但我觉得这个世界太在意乐队了
-Dialogue: 0,0:04:22.69,0:04:24.36,Chn,,0,0,0,,而不够在意爱
-Dialogue: 0,0:04:24.99,0:04:27.45,Chn,,0,0,0,,- 而且我觉得我爱你 - 我也是
-Dialogue: 0,0:04:27.45,0:04:29.99,Chn,,0,0,0,,嘿 我是我未成年女儿的母亲
-Dialogue: 0,0:04:30.08,0:04:31.45,Chn,,0,0,0,,很高兴 哇啊
-Dialogue: 0,0:04:31.45,0:04:33.20,Chn,,0,0,0,,拜托 才认识啊
-Dialogue: 0,0:04:33.70,0:04:35.25,Chn,,0,0,0,,呃 我们不合适
-Dialogue: 0,0:04:35.29,0:04:36.58,Chn,,0,0,0,,等等 你干什
-Dialogue: 0,0:04:36.71,0:04:37.54,Chn,,0,0,0,,算了
-Dialogue: 0,0:04:37.75,0:04:40.88,Chn,,0,0,0,,我不干了 我是同性恋 我爱Xander
-Dialogue: 0,0:04:40.88,0:04:43.09,Chn,,0,0,0,,这愚蠢的手机在摧毁我们
-Dialogue: 0,0:04:44.46,0:04:45.59,Chn,,0,0,0,,嘿 宝贝
-Dialogue: 0,0:04:45.67,0:04:47.80,Chn,,0,0,0,,亲爱的 我们的女儿跟一个混混跑了
-Dialogue: 0,0:04:47.80,0:04:49.72,Chn,,0,0,0,,因为一个蠢程序
-Dialogue: 0,0:04:49.72,0:04:50.89,Chn,,0,0,0,,很容易忘的名字
-Dialogue: 0,0:04:50.97,0:04:54.73,Chn,,0,0,0,,一个很蠢 很没创意 超级用力过猛
-Dialogue: 0,0:04:54.73,0:04:56.18,Chn,,0,0,0,,不管了 我会晚点 爱你
-Dialogue: 0,0:04:56.18,0:04:58.15,Chn,,0,0,0,,知道了 我也爱你
-Dialogue: 0,0:04:58.48,0:05:00.65,Chn,,0,0,0,,好了 Glootie 把那个程序撤下来
-Dialogue: 0,0:05:00.94,0:05:03.11,Chn,,0,0,0,,撤不下来 我只是个实习生
-Dialogue: 0,0:05:06.49,0:05:08.32,Chn,,0,0,0,,呃 程序不是这样运作的
-Dialogue: 0,0:05:08.32,0:05:09.91,Chn,,0,0,0,,那就把这变成运作方式
-Dialogue: 0,0:05:09.99,0:05:12.99,Chn,,0,0,0,,这不是让事情运作的办法
-Dialogue: 0,0:05:13.08,0:05:14.24,Chn,,0,0,0,,把它 从服务器上弄下来
-Dialogue: 0,0:05:14.24,0:05:15.95,Chn,,0,0,0,,你 你以为我们很蠢吗 我们不蠢
-Dialogue: 0,0:05:15.95,0:05:18.08,Chn,,0,0,0,,我们知道程序和服务器有关
-Dialogue: 0,0:05:18.08,0:05:19.42,Chn,,0,0,0,,服务器在母舰上
-Dialogue: 0,0:05:19.42,0:05:20.50,Chn,,0,0,0,,母舰在哪
-Dialogue: 0,0:05:20.58,0:05:22.04,Chn,,0,0,0,,- 它在来的路上 - 带我们去
-Dialogue: 0,0:05:22.13,0:05:22.88,Chn,,0,0,0,,- 不要 - 要
-Dialogue: 0,0:05:22.88,0:05:24.63,Chn,,0,0,0,,再多摇摇他 这有用
-Dialogue: 0,0:05:24.63,0:05:26.09,Chn,,0,0,0,,带我们去母舰
-Dialogue: 0,0:05:38.52,0:05:40.52,Chn,,0,0,0,,好吧 别伤害我 别伤害我
-Dialogue: 0,0:05:40.60,0:05:42.40,Chn,,0,0,0,,吓人哔哔音效应用程序
-Dialogue: 0,0:05:42.44,0:05:44.65,Chn,,0,0,0,,真的没法对这么有才能的人一直发火
-Dialogue: 0,0:05:44.65,0:05:46.53,Chn,,0,0,0,,爸 你能而且必须要发火
-Dialogue: 0,0:05:52.78,0:05:54.66,Chn,,0,0,0,,- 呱呱 - 呱呱
-Dialogue: 0,0:05:54.74,0:05:56.54,Chn,,0,0,0,,- 嘿 呱呱 呱呱 - 呱呱 呱呱
-Dialogue: 0,0:05:56.54,0:05:58.54,Chn,,0,0,0,,瞧瞧这家伙 他特别想吃了我
-Dialogue: 0,0:05:58.54,0:05:59.83,Chn,,0,0,0,,你想把我吃了 对吧
-Dialogue: 0,0:05:59.96,0:06:01.67,Chn,,0,0,0,,- 呱呱 - 开玩笑呢 来点毒品
-Dialogue: 0,0:06:01.67,0:06:03.17,Chn,,0,0,0,,你是Vermigurber吗
-Dialogue: 0,0:06:03.25,0:06:04.80,Chn,,0,0,0,,这人要干嘛 这猴子是谁
-Dialogue: 0,0:06:04.88,0:06:05.88,Chn,,0,0,0,,我来找你谈谈一份三明治的事
-Dialogue: 0,0:06:05.96,0:06:07.46,Chn,,0,0,0,,哦 那你可来对地方了
-Dialogue: 0,0:06:07.46,0:06:09.76,Chn,,0,0,0,,因为你就要享受到一份子弹三明治了
-Dialogue: 0,0:06:09.76,0:06:12.26,Chn,,0,0,0,,一两片全"枪"馅的
-Dialogue: 0,0:06:13.26,0:06:14.97,Chn,,0,0,0,,你最好接一下这个电话
-Dialogue: 0,0:06:16.97,0:06:17.68,Chn,,0,0,0,,喂
-Dialogue: 0,0:06:17.68,0:06:19.89,Chn,,0,0,0,,爸 这个人类要什么就给他什么吧
-Dialogue: 0,0:06:19.89,0:06:21.81,Chn,,0,0,0,,他知道我住在哪 他是个疯子
-Dialogue: 0,0:06:21.81,0:06:24.56,Chn,,0,0,0,,你这个傻逼
-Dialogue: 0,0:06:24.56,0:06:27.53,Chn,,0,0,0,,我有80万个孩子呢
-Dialogue: 0,0:06:27.53,0:06:29.07,Chn,,0,0,0,,别忘了看看语音留言信箱
-Dialogue: 0,0:06:29.24,0:06:33.82,Chn,,0,0,0,,您有47万条新信息
-Dialogue: 0,0:06:33.82,0:06:35.62,Chn,,0,0,0,,哦 啊 那已经是一半了
-Dialogue: 0,0:06:35.70,0:06:37.29,Chn,,0,0,0,,好吧 你 你想要什么 你想要什么
-Dialogue: 0,0:06:38.33,0:06:40.66,Chn,,0,0,0,,等会 你难道真的是来问三明治的
-Dialogue: 0,0:06:40.75,0:06:43.00,Chn,,0,0,0,,我以为是毒品或者枪之类的
-Dialogue: 0,0:06:43.08,0:06:45.17,Chn,,0,0,0,,又或者是我作为苍蝇却经营着一间青蛙餐厅
-Dialogue: 0,0:06:45.17,0:06:47.55,Chn,,0,0,0,,我有成千上万的趣事
-Dialogue: 0,0:06:47.63,0:06:48.76,Chn,,0,0,0,,但没有一个是跟三明治有关的
-Dialogue: 0,0:06:48.84,0:06:51.26,Chn,,0,0,0,,- 谁点的这个三明治 - 去问我们的快递机器人啊
-Dialogue: 0,0:06:51.30,0:06:54.09,Chn,,0,0,0,,他 他跑去参加机器人战争了
-Dialogue: 0,0:06:55.22,0:06:57.14,Chn,,0,0,0,,嘿 猿人 我希望你做的事值得
-Dialogue: 0,0:06:57.14,0:06:59.27,Chn,,0,0,0,,你树这一窝蜂的的敌人
-Dialogue: 0,0:06:59.35,0:07:02.48,Chn,,0,0,0,,只要能找到谁在我的厕所里拉屎 就是值得的
-Dialogue: 0,0:07:02.89,0:07:05.94,Chn,,0,0,0,,这是什么暗号吗 你们快查一查
-Dialogue: 0,0:07:06.02,0:07:07.65,Chn,,0,0,0,,如果这是毒品的外号 我得知道是什么
-Dialogue: 0,0:07:10.99,0:07:13.95,Chn,,0,0,0,,- 妈 你没法阻止真爱的 - 哦 我当然能
-Dialogue: 0,0:07:14.03,0:07:15.95,Chn,,0,0,0,,- 你这是在袭击我 - 小声点
-Dialogue: 0,0:07:16.03,0:07:17.03,Chn,,0,0,0,,有人袭击我
-Dialogue: 0,0:07:17.12,0:07:18.03,Chn,,0,0,0,,哦 是吗 好的
-Dialogue: 0,0:07:18.20,0:07:19.41,Chn,,0,0,0,,强奸未成年人
-Dialogue: 0,0:07:19.49,0:07:20.62,Chn,,0,0,0,,有人要强奸我女儿
-Dialogue: 0,0:07:20.70,0:07:22.33,Chn,,0,0,0,,不我没有 有人在袭击我
-Dialogue: 0,0:07:22.41,0:07:23.25,Chn,,0,0,0,,- 强奸 - 袭击
-Dialogue: 0,0:07:23.33,0:07:25.54,Chn,,0,0,0,,- 强奸 - 没人在乎 这是汽车旅馆
-Dialogue: 0,0:07:25.63,0:07:27.46,Chn,,0,0,0,,没有人是因为他们的生活好到
-Dialogue: 0,0:07:27.54,0:07:29.21,Chn,,0,0,0,,能有精力掺合到你们的破事才住这的
-Dialogue: 0,0:07:29.21,0:07:30.59,Chn,,0,0,0,,你们自己处理你们的逼事吧
-Dialogue: 0,0:07:31.21,0:07:33.30,Chn,,0,0,0,,你没办法阻止我们开汽车旅馆的房间
-Dialogue: 0,0:07:33.38,0:07:34.26,Chn,,0,0,0,,好 那我也开一间
-Dialogue: 0,0:07:34.30,0:07:35.76,Chn,,0,0,0,,就住在你们隔壁
-Dialogue: 0,0:07:35.76,0:07:37.39,Chn,,0,0,0,,我要扣个杯子在墙上 听你们的声音
-Dialogue: 0,0:07:37.39,0:07:39.35,Chn,,0,0,0,,- 好 听得开心 - 我会的
+Dialogue: 0,0:00:05.31,0:00:06.23,Chn,,0,0,0,,我们没有糖浆了\N{\ren}We're out of syrup.
+Dialogue: 0,0:00:06.27,0:00:07.44,Chn,,0,0,0,,呵 你知道吗\N{\ren}Huh.You know what?
+Dialogue: 0,0:00:07.48,0:00:11.15,Chn,,0,0,0,,或许我要用用我的实习生 Glootie\N{\ren}Maybe I'll use my intern.
+Dialogue: 0,0:00:11.19,0:00:13.44,Chn,,0,0,0,,- 够了吗 - 谢了 Glootie\N{\ren}- Glootie? - Good?
+Dialogue: 0,0:00:13.53,0:00:14.07,Chn,,0,0,0,,还需要别的什么吗\N{\ren}
+Dialogue: 0,0:00:14.07,0:00:15.57,Chn,,0,0,0,,你想要开发一款应用程序吗\N{\ren}Do you want to develop an app?
+Dialogue: 0,0:00:15.61,0:00:17.45,Chn,,0,0,0,,- 不了谢谢 Glootie - 嘿 你好吗 Glootie\N{\ren}- No thanks, Glootie.- Hey, what's up, Glootie?
+Dialogue: 0,0:00:17.53,0:00:19.45,Chn,,0,0,0,,- 嗨 Morty 你想要开发一款应用程序吗 - 不了谢谢\N{\ren}Hi, Morty. Do you want to develop an app? - No thanks.
+Dialogue: 0,0:00:19.45,0:00:20.33,Chn,,0,0,0,,Rick 为什么这么说\N{\ren}- Rick, why does it say,
+Dialogue: 0,0:00:20.33,0:00:22.62,Chn,,0,0,0,,额头上写着"不要开发我的应用程序"\N{\ren}"Do not develop my app," on your intern's forehead?
+Dialogue: 0,0:00:22.62,0:00:23.79,Chn,,0,0,0,,怎么呢 你想要开发一款应用程序吗\N{\ren}Why, you want to develop one?
+Dialogue: 0,0:00:23.79,0:00:25.04,Chn,,0,0,0,,啊 我很高兴你问了这个问题 Jerry\N{\ren}Ah, I'm glad you asked that, Jerry.
+Dialogue: 0,0:00:25.08,0:00:26.62,Chn,,0,0,0,,是为了不让你去开发他的程序\N{\ren}It's so <i>you</i> don't develop his app.
+Dialogue: 0,0:00:26.87,0:00:29.92,Chn,,0,0,0,,- Glootie 去复印点什么东西 - 好的\N{\ren}Glootie, go make some photocopies of something. - Cool.
+Dialogue: 0,0:00:29.96,0:00:32.55,Chn,,0,0,0,,嗯 如果有谁想跟我一起开发程序 我很愿意\N{\ren}Well, if anyone wants to develop an app with me, I'm down.
+Dialogue: 0,0:00:32.55,0:00:35.22,Chn,,0,0,0,,他看起来特别想开发程序\N{\ren}He seems to <i>really</i> want to develop an app.
+Dialogue: 0,0:00:35.22,0:00:37.22,Chn,,0,0,0,,他确实很想 亲爱的 但是没人会那么做\N{\ren}He really does, sweetie,but nobody's gonna do that.
+Dialogue: 0,0:00:37.30,0:00:38.68,Chn,,0,0,0,,好了 你们不介意的话\N{\ren}Now, if you'll excuse me,
+Dialogue: 0,0:00:38.68,0:00:40.97,Chn,,0,0,0,,我有个很快的个人冒险要进行\N{\ren}I've got a quick solo adventure to go on,
+Dialogue: 0,0:00:41.06,0:00:43.97,Chn,,0,0,0,,这个冒险可不由Ron Howard导演\N{\ren}and this one will <i>not</i> be directed by Ron Howard.
+Dialogue: 0,0:00:43.97,0:00:44.52,Chn,,0,0,0,,他是要去拉屎\N{\ren}He's gonna go poop.
+Dialogue: 0,0:00:44.56,0:00:46.06,Chn,,0,0,0,,当外公那么拍他的肚皮\N{\ren}When Grandpa Rick pats his belly like that
+Dialogue: 0,0:00:46.10,0:00:47.56,Chn,,0,0,0,,还不带着Morty离开 意味着他要去拉屎了\N{\ren}and leaves without Morty,it means he's going to go poop.
+Dialogue: 0,0:00:47.64,0:00:48.90,Chn,,0,0,0,,他拉屎的时候会不好意思\N{\ren}He's a shy pooper.
+Dialogue: 0,0:00:48.90,0:00:50.02,Chn,,0,0,0,,他有一个秘密的拉屎地点\N{\ren}He has a secret pooping place.
+Dialogue: 0,0:00:50.06,0:00:51.48,Chn,,0,0,0,,靠 我操 Summer\N{\ren}Man, fuck you, Summer.
+Dialogue: 0,0:00:51.48,0:00:54.36,Chn,,0,0,0,,亲爱的 你为啥不能因为你的SAT这么兴奋\N{\ren}Honey, why can't you get this excited about your SATs?
+Dialogue: 0,0:00:54.36,0:00:57.15,Chn,,0,0,0,,嗯 我够男人 可以直接说 我要去拉屎\N{\ren}Well, I'm man enough to simply say, "I'm going to poop,"
+Dialogue: 0,0:00:57.15,0:01:00.57,Chn,,0,0,0,,而且我很荣幸有Ron Howard参与\N{\ren}and I'd be honored to have Ron Howard involved.
+Dialogue: 0,0:01:00.62,0:01:02.37,Chn,,0,0,0,,- 好样的 宝贝 - 你行啊 爸 - 我们支持你\N{\ren}Good job, hon. - Way to go, Dad. - We're rooting for ya.
+Dialogue: 0,0:01:06.66,0:01:08.17,Chn,,0,0,0,,他真的给你布置了很多工作 哈\N{\ren}He's really putting you to work, huh?
+Dialogue: 0,0:01:08.17,0:01:09.50,Chn,,0,0,0,,你想开发一款应用程序吗\N{\ren}Did you want to develop an app?
+Dialogue: 0,0:01:09.50,0:01:11.79,Chn,,0,0,0,,- 我就不了 Glootie - 哼 那是你的损失\N{\ren}- I'll pass, Glootie. - Hmm, your loss.
+Dialogue: 0,0:01:11.79,0:01:13.50,Chn,,0,0,0,,哦 是吗 为什么呢\N{\ren}Oh, yeah? Why's that?
+Dialogue: 0,0:01:13.50,0:01:15.05,Chn,,0,0,0,,呃 这是一款你想要开发的程序\N{\ren}Eh, it's an app you'd want to develop.
+Dialogue: 0,0:01:15.05,0:01:17.38,Chn,,0,0,0,,- 我能问它是什么啊 - 你当然可以\N{\ren}- Can I ask what it is? - Of course you can.
+Dialogue: 0,0:01:17.38,0:01:20.26,Chn,,0,0,0,,那总是开发程序的第一步\N{\ren}That's always the first step in app development.
+Dialogue: 0,0:01:20.26,0:01:21.85,Chn,,0,0,0,,啊 哈哈哈\N{\ren}Ah.
+Dialogue: 0,0:01:23.72,0:01:25.02,Chn,,0,0,0,,我们一半一半 最终提议\N{\ren}50/50! Final offer!
+Dialogue: 0,0:03:21.05,0:03:24.47,Chn,,0,0,0,,反推消化过程\N{\ren}Reverse digestion extrapolation.
+Dialogue: 0,0:03:25.39,0:03:26.85,Chn,,0,0,0,,是时候见见你的制造者了\N{\ren}Time to meet your maker.
+Dialogue: 0,0:03:28.51,0:03:29.93,Chn,,0,0,0,,你们在干什么\N{\ren}What are you guys doing?
+Dialogue: 0,0:03:29.93,0:03:31.52,Chn,,0,0,0,,你开发了一款程序吗\N{\ren}Did you develop an app?
+Dialogue: 0,0:03:31.52,0:03:33.48,Chn,,0,0,0,,开发程序的第一条规则 儿子\N{\ren}Rule number one in app development, son...
+Dialogue: 0,0:03:33.48,0:03:34.69,Chn,,0,0,0,,永远别遵循规则\N{\ren}Never follow the rules.
+Dialogue: 0,0:03:34.69,0:03:37.86,Chn,,0,0,0,,除非这规则被纹在了外星人的额头上 老爸\N{\ren}Except when the rule is tattooed on an alien's forehead, Dad.
+Dialogue: 0,0:03:37.86,0:03:39.65,Chn,,0,0,0,,你觉得为什么Rick会有这个规定\N{\ren}Why do you think Rick would have that rule?
+Dialogue: 0,0:03:39.65,0:03:41.32,Chn,,0,0,0,,因为他怕别人烦他\N{\ren}'Cause he's a disrupt-o-phobe.
+Dialogue: 0,0:03:41.36,0:03:42.32,Chn,,0,0,0,,不 老爸 不\N{\ren}No, Dad, no.
+Dialogue: 0,0:03:42.32,0:03:44.15,Chn,,0,0,0,,是为了防止可怕的事情发生\N{\ren}To keep something horrible from happening,
+Dialogue: 0,0:03:44.20,0:03:46.03,Chn,,0,0,0,,一些他懒得解释的事情\N{\ren}something he's too lazy to explain.
+Dialogue: 0,0:03:46.07,0:03:47.82,Chn,,0,0,0,,伙计们 我们有第一个用户啦\N{\ren}Guys, we're getting our first users.
+Dialogue: 0,0:03:50.95,0:03:53.33,Chn,,0,0,0,,哇 这个新程序刚刚给我匹配了\N{\ren}Whoa, this new app just matched me
+Dialogue: 0,0:03:53.33,0:03:55.62,Chn,,0,0,0,,超我菜的人\N{\ren}with a guy that is su my ty.
+Dialogue: 0,0:03:56.00,0:03:58.21,Chn,,0,0,0,,超级是我的菜 学着缩写\N{\ren}Super my type.Learn to abbre.
+Dialogue: 0,0:03:58.29,0:03:59.09,Chn,,0,0,0,,嘿\N{\ren}Hey!
+Dialogue: 0,0:03:59.09,0:04:01.96,Chn,,0,0,0,,你的超菜 在Jersey Mike's工作\N{\ren}Your su ty works at Jersey Mike's
+Dialogue: 0,0:04:01.96,0:04:04.30,Chn,,0,0,0,,还一年看25场Phish演出\N{\ren}and sees 25 Phish shows a year.
+Dialogue: 0,0:04:04.30,0:04:06.68,Chn,,0,0,0,,- 那太Danny了 - Summer\N{\ren}- That is so Danny. - Summer!
+Dialogue: 0,0:04:06.68,0:04:08.01,Chn,,0,0,0,,- Danny - Summer Smith吗\N{\ren}- Danny? - Summer Smith?
+Dialogue: 0,0:04:08.10,0:04:10.81,Chn,,0,0,0,,Danny Publits来自 寻寻又爱爱 写了两遍"寻"和"爱"吗\N{\ren}Danny Publits from Lovefinderrz with two "R's" and a "Z"?
+Dialogue: 0,0:04:10.81,0:04:13.10,Chn,,0,0,0,,我一路盯着你的资料跑过来的\N{\ren}I ran all the way here while staring at your profile.
+Dialogue: 0,0:04:13.31,0:04:15.02,Chn,,0,0,0,,我撞上了一个消防栓然后摔倒了\N{\ren}I tripped on a fire hydrant and fell down,
+Dialogue: 0,0:04:15.02,0:04:16.90,Chn,,0,0,0,,所以我浑身有粘着汗的小石子\N{\ren}so I'm covered in gravel that stuck to my sweat.
+Dialogue: 0,0:04:16.90,0:04:18.31,Chn,,0,0,0,,哪怕冲个澡之后\N{\ren}And even after a shower,
+Dialogue: 0,0:04:18.31,0:04:20.32,Chn,,0,0,0,,我还是会对这给老瘾君子听的混合乐队感兴趣\N{\ren}I'll still be into a jam band for old junkies,
+Dialogue: 0,0:04:20.32,0:04:22.69,Chn,,0,0,0,,但我觉得这个世界太在意乐队了\N{\ren}but I think this world cares too much about bands
+Dialogue: 0,0:04:22.69,0:04:24.36,Chn,,0,0,0,,而不够在意爱\N{\ren}and too little about love.
+Dialogue: 0,0:04:24.99,0:04:27.45,Chn,,0,0,0,,- 而且我觉得我爱你 - 我也是\N{\ren}- And I think I love you. - Me, too.
+Dialogue: 0,0:04:27.45,0:04:29.99,Chn,,0,0,0,,嘿 我是我未成年女儿的母亲\N{\ren}Hi, I'm my under-aged daughter's mother.
+Dialogue: 0,0:04:30.08,0:04:31.45,Chn,,0,0,0,,很高兴 哇啊\N{\ren}Nice to... whoa!
+Dialogue: 0,0:04:31.45,0:04:33.20,Chn,,0,0,0,,拜托 才认识啊\N{\ren}Come on. Just met.
+Dialogue: 0,0:04:33.70,0:04:35.25,Chn,,0,0,0,,呃 我们不合适\N{\ren}Uh, this isn't working.
+Dialogue: 0,0:04:35.29,0:04:36.58,Chn,,0,0,0,,等等 你干什\N{\ren}Wait. What are you...
+Dialogue: 0,0:04:36.71,0:04:37.54,Chn,,0,0,0,,算了\N{\ren}Never mind.
+Dialogue: 0,0:04:37.75,0:04:40.88,Chn,,0,0,0,,我不干了 我是同性恋 我爱Xander\N{\ren}I quit, I'm gay, and I love Xander.
+Dialogue: 0,0:04:40.88,0:04:43.09,Chn,,0,0,0,,这愚蠢的手机在摧毁我们\N{\ren}Stupid phones are destroying us.
+Dialogue: 0,0:04:44.46,0:04:45.59,Chn,,0,0,0,,嘿 宝贝\N{\ren}Hey, sweetie.
+Dialogue: 0,0:04:45.67,0:04:47.80,Chn,,0,0,0,,亲爱的 我们的女儿跟一个混混跑了\N{\ren}<i>Honey, our daughter ran off with a Frisbee golfer</i>
+Dialogue: 0,0:04:47.80,0:04:49.72,Chn,,0,0,0,,因为一个蠢程序\N{\ren}<i>because of some app with a really dumb,</i>
+Dialogue: 0,0:04:49.72,0:04:50.89,Chn,,0,0,0,,很容易忘的名字\N{\ren}<i>really forgettable name.</i>
+Dialogue: 0,0:04:50.97,0:04:54.73,Chn,,0,0,0,,一个很蠢 很没创意 超级用力过猛\N{\ren}<i>Like a really dumb, uncreative,super sweaty name.</i>
+Dialogue: 0,0:04:54.73,0:04:56.18,Chn,,0,0,0,,不管了 我会晚点 爱你\N{\ren}<i>Anyway, I'll be late.I love you.</i>
+Dialogue: 0,0:04:56.18,0:04:58.15,Chn,,0,0,0,,知道了 我也爱你\N{\ren}Got it.I love you, too.
+Dialogue: 0,0:04:58.48,0:05:00.65,Chn,,0,0,0,,好了 Glootie 把那个程序撤下来\N{\ren}Okay, Glootie, take the app down.
+Dialogue: 0,0:05:00.94,0:05:03.11,Chn,,0,0,0,,撤不下来 我只是个实习生\N{\ren}Can't take it down.I'm just an intern.
+Dialogue: 0,0:05:06.49,0:05:08.32,Chn,,0,0,0,,呃 程序不是这样运作的\N{\ren}Uh, that's not how apps work.
+Dialogue: 0,0:05:08.32,0:05:09.91,Chn,,0,0,0,,那就把这变成运作方式\N{\ren}Then make it how it works.
+Dialogue: 0,0:05:09.99,0:05:12.99,Chn,,0,0,0,,这不是让事情运作的办法\N{\ren}This isn't how making things work works.
+Dialogue: 0,0:05:13.08,0:05:14.24,Chn,,0,0,0,,把它 从服务器上弄下来\N{\ren}Get... get it off the server.
+Dialogue: 0,0:05:14.24,0:05:15.95,Chn,,0,0,0,,你 你以为我们很蠢吗 我们不蠢\N{\ren}Y-You think we're stupid, but we're not.
+Dialogue: 0,0:05:15.95,0:05:18.08,Chn,,0,0,0,,我们知道程序和服务器有关\N{\ren}We know apps have something to do with servers.
+Dialogue: 0,0:05:18.08,0:05:19.42,Chn,,0,0,0,,服务器在母舰上\N{\ren}The server's on the mother ship.
+Dialogue: 0,0:05:19.42,0:05:20.50,Chn,,0,0,0,,母舰在哪\N{\ren}Where's the mother ship?
+Dialogue: 0,0:05:20.58,0:05:22.04,Chn,,0,0,0,,- 它在来的路上 - 带我们去\N{\ren}- It's coming. - Take us to it.
+Dialogue: 0,0:05:22.13,0:05:22.88,Chn,,0,0,0,,- 不要 - 要\N{\ren}- No. - Yes.
+Dialogue: 0,0:05:22.88,0:05:24.63,Chn,,0,0,0,,再多摇摇他 这有用\N{\ren}Shake him more, Morty. That was working.
+Dialogue: 0,0:05:24.63,0:05:26.09,Chn,,0,0,0,,带我们去母舰\N{\ren}Take us to the mother ship.
+Dialogue: 0,0:05:38.52,0:05:40.52,Chn,,0,0,0,,好吧 别伤害我 别伤害我\N{\ren}Okay, don't hurt me.Don't hurt me.
+Dialogue: 0,0:05:40.60,0:05:42.40,Chn,,0,0,0,,吓人哔哔音效应用程序\N{\ren}An ominous beeping app.
+Dialogue: 0,0:05:42.44,0:05:44.65,Chn,,0,0,0,,真的没法对这么有才能的人一直发火\N{\ren}You can't stay made at a guy with this kind of talent.
+Dialogue: 0,0:05:44.65,0:05:46.53,Chn,,0,0,0,,爸 你能而且必须要发火\N{\ren}Dad, you can, and you have to.
+Dialogue: 0,0:05:52.78,0:05:54.66,Chn,,0,0,0,,- 呱呱 - 呱呱\N{\ren}- Ribbit, ribbit.
+Dialogue: 0,0:05:54.74,0:05:56.54,Chn,,0,0,0,,- 嘿 呱呱 呱呱 - 呱呱 呱呱\N{\ren}- Ribbit, ribbit. - Ribbit, ribbit.
+Dialogue: 0,0:05:56.54,0:05:58.54,Chn,,0,0,0,,瞧瞧这家伙 他特别想吃了我\N{\ren}Look at this guy. He wants to eat me so bad.
+Dialogue: 0,0:05:58.54,0:05:59.83,Chn,,0,0,0,,你想把我吃了 对吧\N{\ren}You want to eat me, don't you?
+Dialogue: 0,0:05:59.96,0:06:01.67,Chn,,0,0,0,,- 呱呱 - 开玩笑呢 来点毒品\N{\ren}- Ribbit. - Just kidding. Have some drugs.
+Dialogue: 0,0:06:01.67,0:06:03.17,Chn,,0,0,0,,你是Vermigurber吗\N{\ren}- Are you Vermigurber?
+Dialogue: 0,0:06:03.25,0:06:04.80,Chn,,0,0,0,,这人要干嘛 这猴子是谁\N{\ren}- What does this guy want? - Who is this monkey?
+Dialogue: 0,0:06:04.88,0:06:05.88,Chn,,0,0,0,,我来找你谈谈一份三明治的事\N{\ren}- I'm here about a sandwich.
+Dialogue: 0,0:06:05.96,0:06:07.46,Chn,,0,0,0,,哦 那你可来对地方了\N{\ren}Oh, well you came to the right place
+Dialogue: 0,0:06:07.46,0:06:09.76,Chn,,0,0,0,,因为你就要享受到一份子弹三明治了\N{\ren}'cause you're about to get a <i>bullet</i> sandwich
+Dialogue: 0,0:06:09.76,0:06:12.26,Chn,,0,0,0,,一两片全"枪"馅的\N{\ren}on two slices of whole... gun.
+Dialogue: 0,0:06:13.26,0:06:14.97,Chn,,0,0,0,,你最好接一下这个电话\N{\ren}You might want to get that.
+Dialogue: 0,0:06:16.97,0:06:17.68,Chn,,0,0,0,,喂\N{\ren}Hello?
+Dialogue: 0,0:06:17.68,0:06:19.89,Chn,,0,0,0,,爸 这个人类要什么就给他什么吧\N{\ren}<i>Dad, give the human whatever he wants.</i>
+Dialogue: 0,0:06:19.89,0:06:21.81,Chn,,0,0,0,,他知道我住在哪 他是个疯子\N{\ren}<i>He knows where I live. He's crazy!</i>
+Dialogue: 0,0:06:21.81,0:06:24.56,Chn,,0,0,0,,你这个傻逼\N{\ren}</i>You fucking idiot.
+Dialogue: 0,0:06:24.56,0:06:27.53,Chn,,0,0,0,,我有80万个孩子呢\N{\ren}I have 800,000 kids.
+Dialogue: 0,0:06:27.53,0:06:29.07,Chn,,0,0,0,,别忘了看看语音留言信箱\N{\ren}Don't forget your voicemail.
+Dialogue: 0,0:06:29.24,0:06:33.82,Chn,,0,0,0,,您有47万条新信息\N{\ren}<i>You have 470,000 messages.</i>
+Dialogue: 0,0:06:33.82,0:06:35.62,Chn,,0,0,0,,哦 啊 那已经是一半了\N{\ren}Oh, ah, that's half of them.
+Dialogue: 0,0:06:35.70,0:06:37.29,Chn,,0,0,0,,好吧 你 你想要什么 你想要什么\N{\ren}Okay, w-w-what do you want? What do you want?
+Dialogue: 0,0:06:38.33,0:06:40.66,Chn,,0,0,0,,等会 你难道真的是来问三明治的\N{\ren}Wait, this is seriously about sandwiches?
+Dialogue: 0,0:06:40.75,0:06:43.00,Chn,,0,0,0,,我以为是毒品或者枪之类的\N{\ren}I thought this was about drugs or guns
+Dialogue: 0,0:06:43.08,0:06:45.17,Chn,,0,0,0,,又或者是我作为苍蝇却经营着一间青蛙餐厅\N{\ren}or the fact that I'm a fly that runs a frog restaurant.
+Dialogue: 0,0:06:45.17,0:06:47.55,Chn,,0,0,0,,我有成千上万的趣事\N{\ren}There's a million things that are interesting about me,
+Dialogue: 0,0:06:47.63,0:06:48.76,Chn,,0,0,0,,但没有一个是跟三明治有关的\N{\ren}and none of them are sandwiches.
+Dialogue: 0,0:06:48.84,0:06:51.26,Chn,,0,0,0,,- 谁点的这个三明治 - 去问我们的快递机器人啊\N{\ren}- Who ordered it? - Talk to our delivery drone.
+Dialogue: 0,0:06:51.30,0:06:54.09,Chn,,0,0,0,,他 他跑去参加机器人战争了\N{\ren}He... he run off to fight in the robot wars.
+Dialogue: 0,0:06:55.22,0:06:57.14,Chn,,0,0,0,,嘿 猿人 我希望你做的事值得\N{\ren}Hey, ape man, I hope this was worth
+Dialogue: 0,0:06:57.14,0:06:59.27,Chn,,0,0,0,,你树这一窝蜂的的敌人\N{\ren}making a whole swarm of enemies.
+Dialogue: 0,0:06:59.35,0:07:02.48,Chn,,0,0,0,,只要能找到谁在我的厕所里拉屎 就是值得的\N{\ren}It will be when I find whoever shit in my toilet.
+Dialogue: 0,0:07:02.89,0:07:05.94,Chn,,0,0,0,,这是什么暗号吗 你们快查一查\N{\ren}Is that code for something? Someone look that up.
+Dialogue: 0,0:07:06.02,0:07:07.65,Chn,,0,0,0,,如果这是毒品的外号 我得知道是什么\N{\ren}If that's drug slang, I need to know it.
+Dialogue: 0,0:07:10.99,0:07:13.95,Chn,,0,0,0,,- 妈 你没法阻止真爱的 - 哦 我当然能\N{\ren}- Mom, you can't stop true love. - Oh, yes, I can.
+Dialogue: 0,0:07:14.03,0:07:15.95,Chn,,0,0,0,,- 你这是在袭击我 - 小声点\N{\ren}- You're assaulting me! - Keep your voice down.
+Dialogue: 0,0:07:16.03,0:07:17.03,Chn,,0,0,0,,有人袭击我\N{\ren}I'm being assaulted!
+Dialogue: 0,0:07:17.12,0:07:18.03,Chn,,0,0,0,,哦 是吗 好的\N{\ren}Oh, yeah? Okay.
+Dialogue: 0,0:07:18.20,0:07:19.41,Chn,,0,0,0,,强奸未成年人\N{\ren}- Statutory rape!
+Dialogue: 0,0:07:19.49,0:07:20.62,Chn,,0,0,0,,有人要强奸我女儿\N{\ren}My daughter's about to be raped!
+Dialogue: 0,0:07:20.70,0:07:22.33,Chn,,0,0,0,,不我没有 有人在袭击我\N{\ren}No, I'm not! I'm being assaulted!
+Dialogue: 0,0:07:22.41,0:07:23.25,Chn,,0,0,0,,- 强奸 - 袭击\N{\ren}- Rape! - Assault!
+Dialogue: 0,0:07:23.33,0:07:25.54,Chn,,0,0,0,,- 强奸 - 没人在乎 这是汽车旅馆\N{\ren}- Rape! - Nobody cares. It's a motel.
+Dialogue: 0,0:07:25.63,0:07:27.46,Chn,,0,0,0,,没有人是因为他们的生活好到\N{\ren}Nobody's here because their life's going so great
+Dialogue: 0,0:07:27.54,0:07:29.21,Chn,,0,0,0,,能有精力掺合到你们的破事才住这的\N{\ren}they can afford to get mixed up in yours.
+Dialogue: 0,0:07:29.21,0:07:30.59,Chn,,0,0,0,,你们自己处理你们的逼事吧\N{\ren}Deal with this shit on your own.
+Dialogue: 0,0:07:31.21,0:07:33.30,Chn,,0,0,0,,你没办法阻止我们开汽车旅馆的房间\N{\ren}You can't stop us from getting a motel room.
+Dialogue: 0,0:07:33.38,0:07:34.26,Chn,,0,0,0,,好 那我也开一间\N{\ren}Fine.I'll get one, too.
+Dialogue: 0,0:07:34.30,0:07:35.76,Chn,,0,0,0,,就住在你们隔壁\N{\ren}I'm getting the one next door,
+Dialogue: 0,0:07:35.76,0:07:37.39,Chn,,0,0,0,,我要扣个杯子在墙上 听你们的声音\N{\ren}and I'm putting a glass to the wall, and I'm listening.
+Dialogue: 0,0:07:37.39,0:07:39.35,Chn,,0,0,0,,- 好 听得开心 - 我会的\N{\ren}- Fine. Enjoy.- I will.
 Dialogue: 0,0:07:39.39,0:07:41.64,Chn,,0,0,0,,- 另外 我叫Danny - 给过你机会了 傻屌
 Dialogue: 0,0:07:45.48,0:07:47.36,Chn,,0,0,0,,撤掉你们的应用软件
 Dialogue: 0,0:07:47.44,0:07:48.48,Chn,,0,0,0,,撤 撤掉它
